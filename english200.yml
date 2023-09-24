@@ -1,0 +1,188 @@
+matches:
+  - trigger: "ts"
+    replace: "this"
+    word: true
+  - trigger: "nd"
+    replace: "need"
+    word: true
+  - trigger: "lit"
+    replace: "little"
+    word: true
+  - trigger: "sth"
+    replace: "something"
+    word: true
+  - trigger: "wo"
+    replace: "without"
+    word: true
+  - trigger: "wld"
+    replace: "world"
+    word: true
+  - trigger: "peo"
+    replace: "people"
+    word: true
+  - trigger: "becau"
+    replace: "because"
+    word: true
+  - trigger: "prob"
+    replace: "problem"
+    word: true
+  - trigger: "beco"
+    replace: "become"
+    word: true
+  - trigger: "fst"
+    replace: "first"
+    word: true
+  - trigger: "nvr"
+    replace: "never"
+    word: true
+  - trigger: "inc"
+    replace: "increase"
+    word: true
+  - trigger: "dec"
+    replace: "decrease"
+    word: true
+  - trigger: "pub"
+    replace: "public"
+    word: true
+  - trigger: "pers"
+    replace: "person"
+    word: true
+  - trigger: "sho"
+    replace: "should"
+    word: true
+  - trigger: "ev"
+    replace: "even"
+    word: true
+  - trigger: "scho"
+    replace: "school"
+    word: true
+  - trigger: "howe"
+    replace: "however"
+    word: true
+  - trigger: "grp"
+    replace: "group"
+    word: true
+  - trigger: "thr"
+    replace: "through"
+    word: true
+  - trigger: "ab"
+    replace: "about"
+    word: true
+  
+  - trigger: "sml"
+    replace: "small"
+    word: true
+  - trigger: "betw"
+    replace: "between"
+    word: true
+  - trigger: "num"
+    replace: "number"
+    word: true
+  - trigger: "lar"
+    replace: "large"
+    word: true
+  - trigger: "ano"
+    replace: "another"
+    word: true
+  - trigger: "dev"
+    replace: "develop"
+    word: true
+  - trigger: "aga"
+    replace: "again"
+    word: true
+  - trigger: "prog"
+    replace: "program"
+    word: true
+  - trigger: "sm"
+    replace: "small"
+    word: true
+  - trigger: "bef"
+    replace: "before"
+    word: true
+  - trigger: "oth"
+    replace: "other"
+    word: true
+  - trigger: "dur"
+    replace: "during"
+    word: true
+  - trigger: "aro"
+    replace: "around"
+    word: true
+  - trigger: "consi"
+    replace: "consider"
+    word: true
+  - trigger: "fol"
+    replace: "follow"
+    word: true
+  - trigger: "bcs"
+    replace: "because"
+    word: true
+  - trigger: "bcm"
+    replace: "become"
+    word: true
+  - trigger: "poss"
+    replace: "possible"
+    word: true
+  - trigger: "nev"
+    replace: "never"
+    word: true
+  - trigger: "pres"
+    replace: "present"
+    word: true
+  - trigger: "wd"
+    replace: "world"
+    word: true
+  - trigger: "grt"
+    replace: "great"
+    word: true
+  - trigger: "sys"
+    replace: "system"
+    word: true
+  - trigger: "wl"
+    replace: "will"
+    word: true
+  - trigger: "wou"
+    replace: "would"
+    word: true
+  - trigger: "wri"
+    replace: "write"
+    word: true
+  - trigger: "aft"
+    replace: "after"
+    word: true
+  - trigger: "agt"
+    replace: "against"
+    word: true
+  - trigger: "ltl"
+    replace: "little"
+    word: true
+  - trigger: "wt"
+    replace: "what"
+    word: true
+  - trigger: "wn"
+    replace: "when"
+    word: true
+  - trigger: "tk"
+    replace: "think"
+    word: true
+  - trigger: "ty"
+    replace: "thank you"
+    word: true
+  - trigger: "cou"
+    replace: "could"
+    word: true
+  - trigger: "lea"
+    replace: "leave"
+    word: true
+  - trigger: "ppl"
+    replace: "people"
+    word: true
+  - trigger: "cng"
+    replace: "change"
+    word: true
+  - trigger: "tg"
+    replace: "thing"
+    word: true
+  - trigger: "hw"
+    replace: "however"
+    word: true
