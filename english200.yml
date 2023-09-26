@@ -11,23 +11,11 @@ matches:
   - trigger: "sth"
     replace: "something"
     word: true
-  - trigger: "wo"
+  - trigger: "wot"
     replace: "without"
-    word: true
-  - trigger: "wld"
-    replace: "world"
-    word: true
-  - trigger: "peo"
-    replace: "people"
-    word: true
-  - trigger: "becau"
-    replace: "because"
     word: true
   - trigger: "prob"
     replace: "problem"
-    word: true
-  - trigger: "beco"
-    replace: "become"
     word: true
   - trigger: "fst"
     replace: "first"
@@ -44,17 +32,14 @@ matches:
   - trigger: "pub"
     replace: "public"
     word: true
-  - trigger: "pers"
-    replace: "person"
-    word: true
   - trigger: "sho"
+    replace: "should"
+    word: true
+  - trigger: "shou"
     replace: "should"
     word: true
   - trigger: "ev"
     replace: "even"
-    word: true
-  - trigger: "scho"
-    replace: "school"
     word: true
   - trigger: "howe"
     replace: "however"
@@ -78,23 +63,11 @@ matches:
   - trigger: "num"
     replace: "number"
     word: true
-  - trigger: "lar"
+  - trigger: "lrg"
     replace: "large"
     word: true
   - trigger: "ano"
     replace: "another"
-    word: true
-  - trigger: "dev"
-    replace: "develop"
-    word: true
-  - trigger: "aga"
-    replace: "again"
-    word: true
-  - trigger: "prog"
-    replace: "program"
-    word: true
-  - trigger: "sm"
-    replace: "small"
     word: true
   - trigger: "bef"
     replace: "before"
@@ -108,12 +81,6 @@ matches:
   - trigger: "aro"
     replace: "around"
     word: true
-  - trigger: "consi"
-    replace: "consider"
-    word: true
-  - trigger: "fol"
-    replace: "follow"
-    word: true
   - trigger: "bcs"
     replace: "because"
     word: true
@@ -126,17 +93,8 @@ matches:
   - trigger: "nev"
     replace: "never"
     word: true
-  - trigger: "pres"
-    replace: "present"
-    word: true
-  - trigger: "wd"
-    replace: "world"
-    word: true
   - trigger: "grt"
     replace: "great"
-    word: true
-  - trigger: "sys"
-    replace: "system"
     word: true
   - trigger: "wl"
     replace: "will"
@@ -165,9 +123,6 @@ matches:
   - trigger: "tk"
     replace: "think"
     word: true
-  - trigger: "ty"
-    replace: "thank you"
-    word: true
   - trigger: "cou"
     replace: "could"
     word: true
@@ -185,4 +140,49 @@ matches:
     word: true
   - trigger: "hw"
     replace: "however"
+    word: true
+  - trigger: "u"
+    replace: "you"
+    word: true
+  - triger: "r"
+    replace: "are"
+    word: true
+  - trigger: "hv"
+    replace: "have"
+    word: true
+  - trigger: "ag"
+    replace: "again"
+    word: true
+  - trigger: "tr"
+    replace: "there"
+    word: true
+  - trigger: "mn"
+    replace: "many"
+    word: true
+  - trigger: "vr"
+    replace: "very"
+    word: true
+  - trigger: "tn"
+    replace: "then"
+    word: true
+  - trigger: "tt"
+    replace: "that"
+    word: true
+  - trigger: "wr"
+    replace: "where"
+    word: true
+  - trigger: "fm"
+    replace: "from"
+    word: true
+  - trigger: "wd"
+    replace: "would"
+    word: true
+  - trigger: "sm"
+    replace: "some"
+    word: true
+  - trigger: "wch"
+    replace: "which"
+    word: true
+  - trigger: "wh"
+    replace: "with"
     word: true
